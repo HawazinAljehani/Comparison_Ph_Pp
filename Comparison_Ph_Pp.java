@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package comparison_ph_pp;
 
 
@@ -37,6 +33,20 @@ public class Comparison_Ph_Pp {
      	Hawazin salem Aljehani  1805587
 	Jana Aloraifi           1805259
 	Rehab Nuhayd            1808142
+    ***************************
+ References
+
+
+Priority-Queue based Prim Algorithm :
+https://gist.github.com/thmain/77ec4ec91fa3b0a97a6279bdbbfa955f#file-primalgorithmpqbetter-java
+
+Min-heap based Prim Algorithm :
+https://gist.github.com/thmain/a3fcfe0933c55e3402cb7709f2d043ed#file-primusingminheap-java
+
+
+** We joined the codes and added some comments
+   AND creat make_graph ()
+	
     */
 
       
